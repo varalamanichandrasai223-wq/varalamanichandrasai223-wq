@@ -7,4 +7,4 @@
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varalamanichandrasai223-wq&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varalamanichandrasai223-wq&layout=compact)
-## 📫 Connect with Me- ✉️ Email: renuka@example.com- 🔗 LinkedIn: [Renuka Profile](https://linkedin.com/in/renuka-example)
+## 📫 Connect with Me- ✉️ Email: varalamanichandrasai223@gmail.com- 🔗 LinkedIn: [Mani Profile]
